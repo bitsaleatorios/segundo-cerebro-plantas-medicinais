@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para documentar a criação de um **Segundo Cérebro com IA** no Gemini Notebook, usando fontes selecionadas sobre plantas medicinais, fitoterapia, cultivo, preparo e uso racional.
 
-## 🎯 Tema e objetivo
+## Tema e objetivo
 
 **Tema:** Plantas Medicinais e Fitoterapia.
 
@@ -10,7 +10,7 @@ Projeto desenvolvido para documentar a criação de um **Segundo Cérebro com IA
 
 > Este projeto possui finalidade educacional e não substitui orientação médica, farmacêutica ou de outros profissionais de saúde.
 
-## 📚 Fontes utilizadas
+## Fontes utilizadas
 
 O notebook foi alimentado com **15 fontes**:
 
@@ -36,7 +36,7 @@ A curadoria priorizou **cartilhas, manuais, livros e materiais técnicos** relac
 
 O objetivo foi combinar diferentes perspectivas do tema e evitar que o notebook dependesse de uma única publicação. Os critérios principais foram relevância para o assunto, caráter técnico/institucional e possibilidade de rastrear a informação até a fonte original.
 
-## 🤖 Diretriz de comportamento
+## Diretriz de comportamento
 
 A diretriz utilizada no notebook foi:
 
@@ -46,7 +46,7 @@ A diretriz utilizada no notebook foi:
 >
 > Diferencie conhecimento tradicional de informações técnicas ou científicas quando essa distinção estiver presente nas fontes. Não faça diagnósticos nem apresente a fitoterapia como substituta de acompanhamento médico ou farmacêutico.
 
-## 🔎 Perguntas e testes realizados
+## Perguntas e testes realizados
 
 ### 1. Plantas que ajudam a aliviar dores de cabeça
 
@@ -109,7 +109,7 @@ Ao abrir as citações, foi possível conferir trechos em fontes como:
 
 Esse teste foi especialmente útil porque mostrou o notebook **cruzando várias fontes para produzir uma síntese**, mantendo as citações que permitem conferir a origem das recomendações.
 
-## 🧠 Materiais gerados no Estúdio
+## Materiais gerados no Estúdio
 
 Foram gerados materiais de estudo diretamente a partir das 15 fontes do notebook:
 
@@ -123,9 +123,9 @@ Foram gerados materiais de estudo diretamente a partir das 15 fontes do notebook
 
 ## 🔗 Notebook compartilhado
 
-[🌿 Abrir o notebook Plantas Medicinais](https://notebook.google.com/notebook/a3e6da6c-63a2-4454-b91b-c29ec453f246)
+[Abrir o notebook Plantas Medicinais](https://notebook.google.com/notebook/a3e6da6c-63a2-4454-b91b-c29ec453f246)
 
-## 💡 O que aprendi
+## O que aprendi
 
 O projeto mostrou que criar um segundo cérebro com IA não significa apenas adicionar documentos a uma ferramenta. A qualidade do resultado depende diretamente da **curadoria das fontes** e da capacidade de verificar o que a IA apresenta.
 
@@ -141,7 +141,7 @@ Durante o projeto, pratiquei:
 
 O ponto mais importante foi poder abrir uma citação e verificar de onde determinada afirmação veio. Isso transforma o notebook em uma ferramenta de estudo baseada em fontes, e não apenas em um chatbot sobre o tema.
 
-## ⚠️ Aviso
+## Aviso
 
 Este projeto possui finalidade exclusivamente educacional. As informações sobre plantas medicinais foram extraídas das fontes utilizadas no estudo e não substituem avaliação ou orientação de profissionais de saúde.
 
