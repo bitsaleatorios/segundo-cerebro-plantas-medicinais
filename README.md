@@ -145,7 +145,7 @@ O ponto mais importante foi poder abrir uma citação e verificar de onde determ
 
 Este projeto possui finalidade exclusivamente educacional. As informações sobre plantas medicinais foram extraídas das fontes utilizadas no estudo e não substituem avaliação ou orientação de profissionais de saúde.
 
-## 👩‍💻 Autora
+## Autora
 
 **Jade Oliveira**
 
