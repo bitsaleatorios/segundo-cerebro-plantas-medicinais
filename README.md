@@ -1,4 +1,4 @@
-# 🌿 Segundo Cérebro com IA: Plantas Medicinais
+# Segundo Cérebro com IA: Plantas Medicinais
 
 Projeto desenvolvido para documentar a criação de um **Segundo Cérebro com IA** no Gemini Notebook, usando fontes selecionadas sobre plantas medicinais, fitoterapia, cultivo, preparo e uso racional.
 
